@@ -1,1 +1,1 @@
-# Update-a-file-through-a-Python-algorithm
+For this project, I work as a security professional for a healthcare company. I’m required to regularly update a file that identifies the employees who can access restricted content. There is an allow list for IP addresses permitted to sign into the company’s restricted subnetwork. There is also a remove list that identifies which employees I need to remove from the allow list. My task is to create an algorithm that uses Python code to check whether the allow list contains any IP addresses identified on the remove list. 
